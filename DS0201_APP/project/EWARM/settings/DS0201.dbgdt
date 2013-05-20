@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>915</ColumnWidth1>
+        <ColumnWidth2>244</ColumnWidth2>
+        <ColumnWidth3>61</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <PreferedWindows>
+          <Position>1</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <ColumnWidths>
+          <Column0>124</Column0>
+          <Column1>27</Column1>
+          <Column2>27</Column2>
+          <Column3>27</Column3>
+        </ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovEnabled>0</CodeCovEnabled><CodeCovShow>0</CodeCovShow></Disassembly>
+    <Watch><Format><struct_types/><watch_formats/></Format><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Watch></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29696-995</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-29173-1005</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18425-1002</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-20922-29834</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>FileNum</Expression></Expression><Expression><Expression>SectorBuff</Expression></Expression></Expressions><TabId>0</TabId><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\hardware.c</Filename><XPos>0</XPos><YPos>58</YPos><SelStart>22311</SelStart><SelEnd>22311</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\include\hardware.h</Filename><XPos>0</XPos><YPos>150</YPos><SelStart>6864</SelStart><SelEnd>6864</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\include\ASM_Funtion.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>767</SelStart><SelEnd>767</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\include\lcd.h</Filename><XPos>0</XPos><YPos>49</YPos><SelStart>3445</SelStart><SelEnd>3445</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\Function.c</Filename><XPos>0</XPos><YPos>261</YPos><SelStart>9366</SelStart><SelEnd>9366</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\ASM_Funtion.s</Filename><XPos>0</XPos><YPos>13</YPos><SelStart>933</SelStart><SelEnd>933</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\include\file.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>580</SelStart><SelEnd>580</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\include\i32str.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>668</SelStart><SelEnd>668</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\hw_config.c</Filename><XPos>0</XPos><YPos>157</YPos><SelStart>8110</SelStart><SelEnd>8110</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\FWLib\library\src\stm32f10x_rcc.c</Filename><XPos>0</XPos><YPos>396</YPos><SelStart>15694</SelStart><SelEnd>15694</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\FWLib\library\src\stm32f10x_flash.c</Filename><XPos>0</XPos><YPos>77</YPos><SelStart>3978</SelStart><SelEnd>3978</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\lcd.c</Filename><XPos>0</XPos><YPos>1045</YPos><SelStart>40814</SelStart><SelEnd>40814</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\include\Global.h</Filename><XPos>26</XPos><YPos>0</YPos><SelStart>1009</SelStart><SelEnd>1032</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\i32str.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>2339</SelStart><SelEnd>2339</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\main.c</Filename><XPos>0</XPos><YPos>92</YPos><SelStart>2421</SelStart><SelEnd>2421</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>1205</SelStart><SelEnd>1205</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\simui.c</Filename><XPos>0</XPos><YPos>441</YPos><SelStart>9860</SelStart><SelEnd>9860</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\files.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>855</SelStart><SelEnd>855</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\DS0201\OSC_APP\DS0201V1.1\source\msd.c</Filename><XPos>0</XPos><YPos>112</YPos><SelStart>5362</SelStart><SelEnd>5362</SelEnd></Tab><ActiveTab>18</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\&#x8BBe;&#x8BA1;&#x6587;&#x6863;\123\&#x793A;&#x6Ce2;&#x5668;\Firmware\FWLib\library\src\stm32f10x_spi.c</Filename><XPos>0</XPos><YPos>501</YPos><SelStart>20326</SelStart><SelEnd>20326</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-019a2b48><key>iaridepm.enu1</key></Toolbar-019a2b48></Sizes></Row0><Row1><Sizes><Toolbar-0664f1c8><key>debuggergui.enu1</key></Toolbar-0664f1c8></Sizes></Row1></Top><Left><Row0><Sizes/></Row0></Left><Right><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>539</Bottom><Right>715</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>274348</sizeHorzCY><sizeVertCX>560156</sizeVertCX><sizeVertCY>742112</sizeVertCY></Rect></Wnd1></Sizes></Row0><Row1><Sizes><Wnd3><Rect><Top>-2</Top><Left>713</Left><Bottom>539</Bottom><Right>913</Right><x>713</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>274348</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>742112</sizeVertCY></Rect></Wnd3></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>121</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>123</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>168724</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>274348</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
